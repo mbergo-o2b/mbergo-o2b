@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbergo-o2b
 - 👀 I’m interested in distributed systems and DevOps
 - 🌱 I’m currently learning how to survive
-- 💞️ I’m looking to collaboration
+- 💞️ I’m looking for collaboration
 - 📫 How to reach me @mbergo
 
 <!---
